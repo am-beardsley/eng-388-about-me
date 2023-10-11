@@ -47,3 +47,5 @@ You now have code to play with! Next, you'll need to set up your codespace. GitH
 17. Click the index.html file and follow the instructions to begin modifying your About Me page.
 
 ## Common Errors
+### Adding files to GitHub Repository
+### Adding files (specifically images) to Codespace
