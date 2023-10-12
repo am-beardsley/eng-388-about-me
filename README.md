@@ -63,6 +63,9 @@ You now have code to play with! Next, you'll need to set up your codespace. GitH
 
 You will now be able to pick up where you left off! 
 
+### What is a tag? 
+A tag is a piece of hypertext markup language used to indicate the beginning and end of an HTML element. They are written using angle brackets: (<) and (/>). 
+
 ### How do I add files, like images, to my active Codespace?
 1. Open your about-me Codespace.
 2. Close any open files. For example, if index.html is open on your screen, click the "X" to close it.
